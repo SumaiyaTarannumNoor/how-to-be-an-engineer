@@ -10,3 +10,4 @@
 - Async Javascript (Callbacks, Promises, Async Await) - https://www.youtube.com/watch?v=_8gHHBlbziw
 - Event Loop - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 - Great website to learn Javascript - https://bezkoder.com/
+- JavaScript Tutorial for Beginners - https://youtu.be/W6NZfCO5SIk
