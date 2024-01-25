@@ -4,3 +4,6 @@
 - Learn Git Practically - https://learngitbranching.js.org/
 - Git Simulator - https://initialcommit.com/tools/git-sim
 - Git Reset, Merge, Rebase - https://www.freecodecamp.org/news/git-sim/
+# Git Repository for Git Guidelines
+
+- https://github.com/MISabic/git-lessons
