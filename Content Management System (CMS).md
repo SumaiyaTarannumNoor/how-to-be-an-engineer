@@ -4,4 +4,5 @@
  - Strapi vs. Contentful vs. Sanity Headless CMS | The Compared EP 1 - https://www.youtube.com/watch?v=O_jBZVHus70
  - What is the headless CMS secret super power - https://www.youtube.com/watch?v=-wNxfOnwpF8
  - Headless v Decoupled CMS architecture (Web CMS tries to make a comeback) - https://www.youtube.com/watch?v=OmcyZvQQyPw
+ - The Big Headless CMS Lie (James Mikrut) - https://www.youtube.com/watch?v=jCMU4qw6LqI
 
