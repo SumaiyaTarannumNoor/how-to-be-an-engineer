@@ -7,3 +7,6 @@
 # Git Repository for Git Guidelines
 
 - https://github.com/MISabic/git-lessons
+
+# A Good Git Tutorial from Git Co-founder
+- So You Think You Know Git - FOSDEM 2024 - https://www.youtube.com/watch?v=aolI_Rz0ZqY&t=604s
