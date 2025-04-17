@@ -8,5 +8,7 @@
 
 - https://github.com/MISabic/git-lessons
 
+- Extended Version of this repository: https://github.com/SumaiyaTarannumNoor/git-lessons
+
 # A Good Git Tutorial from Git Co-founder
 - So You Think You Know Git - FOSDEM 2024 - https://www.youtube.com/watch?v=aolI_Rz0ZqY&t=604s
