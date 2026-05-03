@@ -21,3 +21,6 @@
 
 # CSS Example Repository 
 - https://github.com/SumaiyaTarannumNoor/Sumaiya--Celebration
+
+## CSS Animations for Background
+- https://prismic.io/blog/css-background-effects#14-curved-svg-background-animation
