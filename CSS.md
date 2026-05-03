@@ -27,3 +27,7 @@
 
 ## CSS for PixelArt
 - https://freefrontend.com/css-pixel-art/
+
+## Pixel art to CSS
+- https://pixelartcss.com/
+- (GitHub) https://github.com/jvalen/pixel-art-react
