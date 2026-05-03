@@ -24,3 +24,6 @@
 
 ## CSS Animations for Background
 - https://prismic.io/blog/css-background-effects#14-curved-svg-background-animation
+
+## CSS for PixelArt
+- https://freefrontend.com/css-pixel-art/
